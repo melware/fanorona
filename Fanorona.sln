@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fanorona", "Fanorona\Fanorona\Fanorona.csproj", "{CBDD3FB0-20F0-47C4-B191-42BEAAB512EB}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "FanoronaContent", "Fanorona\FanoronaContent\FanoronaContent.contentproj", "{72C85676-DBF7-49AD-984F-4949346BEA37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBDD3FB0-20F0-47C4-B191-42BEAAB512EB}.Debug|x86.ActiveCfg = Debug|x86
+		{CBDD3FB0-20F0-47C4-B191-42BEAAB512EB}.Debug|x86.Build.0 = Debug|x86
+		{CBDD3FB0-20F0-47C4-B191-42BEAAB512EB}.Release|x86.ActiveCfg = Release|x86
+		{CBDD3FB0-20F0-47C4-B191-42BEAAB512EB}.Release|x86.Build.0 = Release|x86
+		{72C85676-DBF7-49AD-984F-4949346BEA37}.Debug|x86.ActiveCfg = Debug|x86
+		{72C85676-DBF7-49AD-984F-4949346BEA37}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
